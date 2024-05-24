@@ -1,0 +1,2 @@
+/dev/nvme0n1p1 /efi vfat umask=0077	0 2
+/dev/nvme0n1p2 /    xfs  defaults,noatime 0 1
